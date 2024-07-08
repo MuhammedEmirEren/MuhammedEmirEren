@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @MuhammedEmirEren
-- 👀 I’m interested in AI 
