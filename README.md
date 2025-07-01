@@ -3,7 +3,7 @@ Hi, I'm Muhammed Emir Eren 👋
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hFsx5bWgo1g/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdhMmtsbWQ1enpwZ2V5ZzZqaHNmN3A5MG1qMWM5ZHJ5azRsenZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" width="100"/>
   <h1>
     Hey, I'm Muhammed Emir Eren!
     <br/>
@@ -20,7 +20,7 @@ Hi, I'm Muhammed Emir Eren 👋
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c++,arduino,tensorflow,pytorch,numpy,python,scikitlearn,pandas,git,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,c++,arduino,tensorflow,pytorch,numpy,python,scikitlearn,pandas,git,vscode,android,jupyter&perline=6" />
   </a>
 </p>
 
@@ -43,7 +43,3 @@ Hi, I'm Muhammed Emir Eren 👋
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/MuhammedEmirEren" />
-</div>
