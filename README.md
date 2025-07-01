@@ -29,7 +29,7 @@ Hi, I'm Muhammed Emir Eren 👋
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammedEmirEren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=MuhammedEmirEren&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEmirEren&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
