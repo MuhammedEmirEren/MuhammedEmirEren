@@ -20,7 +20,7 @@ Hi, I'm Muhammed Emir Eren 👋
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,tensorflow,pytorch,python,scikitlearn,pandas,git,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,c++,arduino,tensorflow,pytorch,numpy,python,scikitlearn,pandas,git,vscode&perline=6" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Hi, I'm Muhammed Emir Eren 👋
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammedEmirEreb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammedEmirEren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEmirEren&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
@@ -39,11 +39,11 @@ Hi, I'm Muhammed Emir Eren 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-emir-eren-841843246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/muhammedemireren" /></a>
+  <a href="https://www.kaggle.com/muhammedemireren" target="_blank"/><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/MuhammedEmirEren/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://gpvc.arturio.dev/MuhammedEmirEren" />
 </div>
