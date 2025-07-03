@@ -20,7 +20,7 @@ Hi, I'm Muhammed Emir Eren 👋
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,arduino,tensorflow,pytorch,numpy,python,scikitlearn,pandas,git,vscode,pandas&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,arduino,tensorflow,pytorch,numpy,python,scikitlearn,openrocket,git,vscode&perline=6" />
   </a>
 </p>
 
