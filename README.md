@@ -13,7 +13,7 @@ Hi, I'm Muhammed Emir Eren 👋
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP** and **Game Development**
 ---
 
 ### 🛠️ My Skills
