@@ -32,19 +32,17 @@ Hi, I'm Muhammed Emir Eren 👋
 <br/>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> GitHub Stats
-
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedEmirEren&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 
-<img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-mwendwa.vercel.app/api?username=MuhammedEmirEren&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mrhx01&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MuhammedEmirEren&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhx01&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammedEmirEren&theme=radical"/>
 
 </div>
 ---
