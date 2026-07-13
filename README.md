@@ -31,58 +31,13 @@ Hi, I'm Muhammed Emir Eren 👋
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=mrhx01&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mrhx01?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker Medium-Light Skin Tone" width="50" height="50" /> About Me
-
-<div align="left">
-
-```yaml
-name        : mrhx01
-location    : 🌍 Earth
-role        : [ Developer, Problem Solver, Tech Enthusiast ]
-interests   : [ Open Source, Web Dev, Security, AI ]
-status      : Always building something cool 🛠️
-```
-</div>
-
-> *"Code is poetry — write it beautifully."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
-
-
-<div align="center">
-
-| # | Category | Icons |
-|---|---|---|
-| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
-| 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
-| ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet)](#) |
-| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,linux,nginx,docker,cloudflare)](#) |
-| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=postman,npm,vscode,visualstudio,vim,sublime,pycharm,codepen)](#) |
-| 🎯 | **Other** | [![](https://skillicons.dev/icons?i=pr,ps,ai,wordpress,windows)](#) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> GitHub Stats
 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrhx01&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedEmirEren&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 
 <img src="https://github-readme-mwendwa.vercel.app/api?username=mrhx01&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
